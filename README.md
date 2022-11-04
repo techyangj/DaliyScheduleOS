@@ -6,5 +6,8 @@
 
 ## Day 02
 再看rust圣经，看语法
-参加rustlings视频讲解课，写一点rustings解答
+参加rustlings视频讲解课，写一点rustings题目
 
+## Day03
+第三天看了看用例子学rust,和圣经，学习语法。
+写了一部分题目。
